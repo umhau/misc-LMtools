@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl -w
+#!/usr/local/bin/perl
 
 # ====================================================================
 # Copyright (c) 1996-2002 Alexander I. Rudnicky and Carnegie Mellon University.
